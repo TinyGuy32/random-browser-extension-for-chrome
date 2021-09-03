@@ -1,4 +1,6 @@
 first go into your chrome browser and
 search "chrome://extensions", enable programer mode,
 press the first button on the new thing that comes up and
-then select the folder with all the unpacked files
+then select the folder with all the unpacked files.
+you now need to find the puzzle piece att the top of the window,
+click it, find the name "my thing" and click it.
