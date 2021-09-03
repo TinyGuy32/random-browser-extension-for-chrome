@@ -1,0 +1,4 @@
+first go into your chrome browser and
+search "chrome://extensions", enable programer mode,
+press the first button on the new thing that comes up and
+then select the folder with all the unpacked files
